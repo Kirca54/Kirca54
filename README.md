@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning React and Bootstrap
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: LinkedIn: <b>David Kirovski</b>, Instagram: <i><b>@davidkirovski</b></i>
 - ⚡ Fun fact: <b>empty USB drive weighs more than a full USB drive</b>
  
