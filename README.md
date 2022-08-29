@@ -1,8 +1,6 @@
 ### Fourth year software engineering student at the Faculty Of Computer Science and Engineering.
 
 
-
-- 🌱 I’m currently learning Angular
 - 📫 How to reach me: LinkedIn: <b>David Kirovski</b>, Instagram: <i><b>@davidkirovski</b></i>
 - ⚡ Fun fact: <b>empty USB drive weighs more than a full USB drive</b>
  
