@@ -1,4 +1,4 @@
-### Fourth year software engineering student at the Faculty Of Computer Science and Engineering.
+### Software engineering student at the Faculty Of Computer Science and Engineering.
 
 
 - 📫 How to reach me: LinkedIn: <b>David Kirovski</b>, Instagram: <i><b>@davidkirovski</b></i>
