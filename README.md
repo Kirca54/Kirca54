@@ -3,7 +3,7 @@
 - ⚡ Fun fact: <b>empty USB drive weighs more than a full USB drive</b>
  
  ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DavidKirovski) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidkirovski) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DavidKirovski][(https://www.linkedin.com/in/david-kirovski-710a8b172)](https://www.linkedin.com/in/david-kirovski-710a8b172)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidkirovski) 
 <br/>
  
 ## 💻 Languages and Tools:
